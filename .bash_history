@@ -1,0 +1,1 @@
+/home/haow/.bash_history
